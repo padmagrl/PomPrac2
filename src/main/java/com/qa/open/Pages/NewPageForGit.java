@@ -6,5 +6,6 @@ public class NewPageForGit {
 	int z=30;
 	int a=10;
 	int b=20;
+	int c=50;
 
 }
